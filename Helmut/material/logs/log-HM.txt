@@ -83,7 +83,7 @@ o Stadtplan Internet Explorer
 
   Heuristik:  Rückmeldung des Systemzustandes (Feedback)
 
-  Wie reproduzierbar:  Stadt Graz → Graz erfahren → Sehenswertes →  			                 Sehenswürdigkeiten → Stadtplan
+  Wie reproduzierbar:  Stadt Graz → Graz erfahren → Sehenswertes → Sehenswürdigkeiten → Stadtplan
 
 o Suche
 
@@ -171,7 +171,7 @@ o Unerwartete Speichern-Abfrage bei Wanderkarten
 
   Heuristik:  Konsistenz
 
-  Wie reproduzierbar:  Graz erfahren → Sport → Wanderrouten → Route Ölberg → 				Karte
+  Wie reproduzierbar:  Graz erfahren → Sport → Wanderrouten → Route Ölberg → Karte
   
 o Stadtplan Usability
 
