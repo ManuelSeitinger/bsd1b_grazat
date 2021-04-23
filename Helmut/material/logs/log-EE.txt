@@ -1,0 +1,263 @@
+﻿Evaluator: Helmut Menhart
+Alter: 40
+Geschlecht: männlich
+Gerät: Laptop Lenovo G 70-80
+Betriebssystem und Version: Ubuntu 20.04.2 LTS
+Webbrowser und Version: Firefox 87.0 (64-Bit) 
+Ad Blocker: Adblock Plus 3.10.2
+Internetverbindung Typ: A1, Internet XS, dsl
+Internetverbindung Download Geschwindigkeit: 58 mbps
+Bildschirmgröße: 17″
+Bildschirmauflösung: 1600×900
+Browserauflösung: 1600×900
+Datum der Evaluierung: 2021-04-23
+Uhrzeit der Evaluierung: 09:00-10:00
+
+
+Positive Beobachtungen
+----------------------
+
+o Sehenswürdigkeiten
+
+  Übersichtliche Organisation der wichtigsten Sehenswürdigkeiten und gute Kurzbeschreibungen
+
+  Screenshot(s):  p-hm-sehenswuerdigkeiten.png
+  Video clip:
+
+  Wie reproduzierbar:  Startseite  →  Sehenswertes
+
+
+o Tourismus & Hotels
+
+  Weiterleitung an eigene (scheinbar) gutgestaltete Homepage explizit für Tourismus, Unterkünfte, Sightseeing etc.
+
+  Screenshot(s):  p-hm-tourismussite.png
+  Video clip:
+
+  Wie reproduzierbar:  Startseite  →  Tourismus+Hotels
+
+
+o Märkte
+
+  Gut strukturiert. Prägnante, gebündelte Info.
+
+  Screenshot(s):  
+  Video clip:     p-hm-märkte.mp4
+
+  Wie reproduzierbar:  Startseite  →  Tourismus+Hotel
+
+o Bewertungen
+
+  In vielen (Unter-)Kategorie ist ein unmittelbares Bewertungssystem vorhanden
+  (5-Sterne). Nur einmal bewerten möglich. Unkompliziert.
+
+  Screenshot(s):  
+  Video clip:	p-hm-5SterneBewertung.mp4
+
+  Wie reproduzierbar:  Startseite  →  Tourismus+Hotels
+
+o Corona
+
+  Sehr präsent auf Startseite positioniert. Aktuell unverzichtbare, lokale Info.
+  Übersichtlich.
+  
+  Screenshot(s):  p-hm-corona.png
+  Video clip:
+
+  Wie reproduzierbar:  Startseite
+
+o Quicklink / Kontakt
+
+  Schnell verfügbares Kontaktformular. Gut gestaltet. Gutes Feedback für 
+  Bedienung
+
+  Screenshot(s):  
+  Video clip:	p-hm-Kontaktformular.mp4
+
+  Wie reproduzierbar:  Startseite  →  Tourismus+Hotels
+
+Probleme
+--------
+
+o Stadtplan Internet Explorer
+
+  Nachdem beispielsweise der Stadtplan für eine Sehenswürdigkeit angeklickt wird
+  baut sich eine neue Webseite auf und gibt das falsche Feedback „Internet
+  Explorer wird als Browser nicht mehr unterstützt. Bitte verwenden sie einen
+  anderen Browser“
+
+  Screenshot(s):  
+  Video clip:     n-hm-stadtplanIE.mp4
+
+  Heuristik:  Rückmeldung des Systemzustandes (Feedback)
+
+  Wie reproduzierbar:  Stadt Graz → Graz erfahren → Sehenswertes →  			                 Sehenswürdigkeiten → Stadtplan
+
+o Suche
+
+  Suche funktioniert – wie gewohnt für homepageeigene Suchtools -
+  schlecht. Keine Suchvorschläge. Schlechte Suchergebnisse.
+
+  Screenshot(s):  
+  Video clip:     n-hm-suche.mp4
+
+  Heuristik:  Ästhetik und minimales Design
+
+  Wie reproduzierbar:  Startseite → Suchfeld
+
+o Browser verliert ursprüngliche Position
+
+  Nachdem man ein beliebigen Pfad gewählt hat und den Zurückbutton des 
+  Browsers betätigt, kommt man auf eine Position weit über dem Ursprungszustand 
+  zurück.
+
+  Screenshot(s):  
+  Video clip:     n-hm-browserHuepft.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Beliebiger Pfad → Zurückbutton
+
+o Startseite überladen
+
+  Viel zu viele Informationen und Möglichkeiten auf der Startseite. 
+  Unübersichtlich, überladen. An wen soll sich die Seite richten?
+
+
+  Screenshot(s):  
+  Video clip:     n-hm-startseite.mp4
+
+  Heuristik:  Ästhetik und minimales Design
+
+  Wie reproduzierbar:  Startseite
+
+o Tourismus und Hotels schwer zu finden
+
+  Eigene Seite für Tourismus, aber beispielsweise im Vergleich zur Corona-Info
+  viel zu klein und versteckt.
+
+  Screenshot(s):  n-hm-tourismus.png
+  Video clip:     
+
+  Heuristik:  Erkennen ist besser als erinnern
+
+  Wie reproduzierbar:  Startseite
+
+o Kulturseite irreführend
+
+  Sehr irreführende Seite. Zweck ist nicht absehbar und wem es für was dienen 
+  soll.
+
+  Screenshot(s):  n-hm-kultur.png
+  Video clip:     
+
+  Heuristik:  Ästhetik und minimales Design
+
+  Wie reproduzierbar:  Graz erfahren → Kultur
+
+o Keine Konsistenz bei Keywords
+
+  Man wählt z.B. Sehenswürdigkeiten über den übergeordneten Reiter und 
+  dies führt zu einer anderen Darstellung, als wenn Sehenswürdigkeiten 
+  über das Icon gewählt wird.
+
+  Screenshot(s):  
+  Video clip:     n-hm-konsistenzKeywords.mp4
+
+  Heuristik:  Konsistenz
+
+  Wie reproduzierbar:  Graz erfahren → Kultur bzw. Startseite → Kulturicon
+
+o Unerwartete Speichern Abfrage bei Wanderkarten
+
+  Bei verschieden offerierten Wanderrouten ist es möglich die Karten zu
+  betrachten. Beispielsweise bei der Wanderung „Ölberg“ wird ein 
+  Dialog geöffnet, welcher abfragt ob die Datei gespeichert werden soll.
+
+  Screenshot(s):  n-hr-karteSpeichern.png
+  Video clip:     
+
+  Heuristik:  Konsistenz
+
+  Wie reproduzierbar:  Graz erfahren → Sport → Wanderrouten → Route Ölberg → 				Kartenausschnitt
+
+o Daten aus Formular gehen verloren
+
+  Nachdem man Felder im Formular ausgefüllt hat, wenn
+  man die Terms and Conditions liest, sind nachher
+  alle eingetragen Daten wieder weg!!
+
+  Screenshot(s):  
+  Video clip:     n-hr-formular-daten-weg.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Order Form → link "Terms and Conditions"
+
+o Daten aus Formular gehen verloren
+
+  Nachdem man Felder im Formular ausgefüllt hat, wenn
+  man die Terms and Conditions liest, sind nachher
+  alle eingetragen Daten wieder weg!!
+
+  Screenshot(s):  
+  Video clip:     n-hr-formular-daten-weg.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Order Form → link "Terms and Conditions"
+
+o Daten aus Formular gehen verloren
+
+  Nachdem man Felder im Formular ausgefüllt hat, wenn
+  man die Terms and Conditions liest, sind nachher
+  alle eingetragen Daten wieder weg!!
+
+  Screenshot(s):  
+  Video clip:     n-hr-formular-daten-weg.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Order Form → link "Terms and Conditions"
+
+o Daten aus Formular gehen verloren
+
+  Nachdem man Felder im Formular ausgefüllt hat, wenn
+  man die Terms and Conditions liest, sind nachher
+  alle eingetragen Daten wieder weg!!
+
+  Screenshot(s):  
+  Video clip:     n-hr-formular-daten-weg.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Order Form → link "Terms and Conditions"
+
+o Daten aus Formular gehen verloren
+
+  Nachdem man Felder im Formular ausgefüllt hat, wenn
+  man die Terms and Conditions liest, sind nachher
+  alle eingetragen Daten wieder weg!!
+
+  Screenshot(s):  
+  Video clip:     n-hr-formular-daten-weg.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Order Form → link "Terms and Conditions"
+
+o Daten aus Formular gehen verloren
+
+  Nachdem man Felder im Formular ausgefüllt hat, wenn
+  man die Terms and Conditions liest, sind nachher
+  alle eingetragen Daten wieder weg!!
+
+  Screenshot(s):  
+  Video clip:     n-hr-formular-daten-weg.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Order Form → link "Terms and Conditions"
+
+
+
