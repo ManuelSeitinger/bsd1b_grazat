@@ -1,0 +1,182 @@
+Evaluator: Christoph Menzinger
+Alter: 26
+Geschlecht: männlich
+Gerät: SmartPhone Huawei P30 lite
+Betriebssystem und Version: Android 10
+Webbrowser und Version: Chrome 90.0.4430.82
+Ad Blocker: -----
+Internetverbindung Typ: A1 Breitband Internet (WLAN Verbindung)
+Internetverbindung Download Geschwindigkeit: 34.5 Mbps
+Bildschirmgröße: 6.15 Zoll
+Bildschirmauflösung: 1080 x 2312 Pixel (415 ppi)
+Browserauflösung: 1080 x 2312 Pixel
+Datum der Evaluierung: 2021-04-24
+Uhrzeit der Evaluierung: 16:00-18:00
+
+
+Positive Beobachtungen
+----------------------
+
+o Sightseeing-Tool 
+
+  Graz Sightseeing-Tool sehr schön gestaltet und Funktioniert sehr gut
+
+  Video clip: p-CM-Sightseeing-Tool-mp4
+
+  Heuristik:  Ästhetik und minimales Design 
+
+  Wie reproduzierbar:  Startseite -> Graz erfahren -> Sehenswürdigkeiten
+
+
+o Einfache Startseite/ HomeButton
+
+  Es ist einfach auf die Startseite zu kommen, da der Button "Graz" immer aufscheint.
+  Dies erleichtert die Navigation
+
+  Video clip: p-CM-HomeButton-mp4
+
+  Heuristik: Umkehrbare Aktionen
+
+  Wie reproduzierbar: "Graz" links oben
+
+o Quicklink funktion 
+  
+  Am Ende jeder Seite befindet sich eine Liste mit Quicklinks welche das Navigieren schneller und 
+  einfacher gestallten
+
+  Screenshot(s): p-CM-Quicklink.jpeg
+
+  Heuristik: Umkehrbare Aktionen
+
+  Wie reproduzierbar: an ende jeder Seite
+
+o Navigation und Strucktur
+
+  Im großen und ganzen ist die Navigation sehr gut und optisch ansprechend gestaltet.
+  Die Links im Text sind eindeutig erkennbar und man kommt seht leicht dort an wo man hin will.
+
+  Screenshot(s): p-CM-Nav1.jpeg; p-CM-Nav2.jpeg
+
+  Heuristik: Umkehrbare Aktionen
+
+  Wie reproduzierbar: Durch die Website klicken
+
+o Viel Sprachauswahl
+
+  Die Übersetzung funktioniert einwandfrei und bietet eine große auswahl
+
+  Screenshot(s): p-CM-Lang1.jpeg; p-CM-Lang2.jpeg
+
+  Heuristik: Sprache des Benutzers verwenden
+
+  Wie reproduzierbar: Startseite -> "EN" -> Sprache auswählen
+
+Probleme
+--------
+
+o Scrollen 
+
+  Wenn in den Untermenüs Tools erscheinen (Webcams/Karten etc) erscheinen (mitten im Text) ist es sehr schwierig weiter zu Scrollen
+ 
+  Video clip: n-CM-Scroll.mp4
+
+  Heuristik:  Fehlervermeidung
+
+  Wie reproduzierbar:  Startseite -> Radwege
+
+o Quicklinks mitten im Text
+
+  Quicklinks mitten im Text sehen aus als würden sie zu diesen gehören. 
+  Wenn ich beim Scollen darüber fahre werde ich aber unbewusst weitergeleitet.
+  
+  Video clip: n-CM-Quicklings.mp4
+
+  Heuristik:  Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  Startseite -> Rathaus -> Ämter -> "Amt auswählen"
+
+o Taps
+
+  Bei sehr vielen Quicklinks springt man automatisch zu einem neuen Tab, welches das Navigieren
+  teilweise sehr schwer macht.
+  
+  Video clip: n-CM-Tabs.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Startseite -> Rathaus -> Ämter -> "Amt auswählen"
+
+o Webcam
+
+  Die Live-Webcam ist zwar eine nette Idee, funktioniert aber sehr schlecht und Navigation sowie Steurung
+  ist dabei fast unmöglich
+  
+  Video clip: n-CM-Webcams.mp4 
+
+  Heuristik:  Fehlervermeidung
+
+  Wie reproduzierbar: Startseite -> Graz Erfahren -> Webcams
+
+o Karten-Tools
+
+  Karten-Tools sind so gut wie unbrauchbar. Zu klein, laden zu lange, undeutlich und unübersichtlich
+
+  Video clip: n-CM-Map.mp4 
+
+  Heuristik:  Fehlervermeidung
+
+  Wie reproduzierbar: Startseite -> Graz Erfahren -> Barrierefrei; Stadtplan
+
+o Optik
+
+  die Optik ist sehr minimalistisch gehalten. Die Seiten bestehen quasi nur aus Quicklinks und Text.
+  
+  Screenshot(s): p-CM-Text.jpeg;
+
+  Heuristik:  Fehlervermeidung
+ 
+  Wie reproduzierbar: Startseite
+
+o Sprach-Einstellung
+
+  Um die Sprache auf Deutsch zu stellen musste ich lange suchen da sie sich nicht bei "D" befand
+
+  Video clip: n-CM-Sprache.mp4 
+
+  Heuristik: Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar: Startseite -> "EN" -> Sprache auswählen  
+ 
+
+o Sprach-Einstellung 
+
+  Bei der Spracheinstellung "Deutsch" steht, wie bei "English" "EN", nicht "DE" sondern "AUF" 
+
+  Screenshot(s): p-CM-DE.jpeg;
+
+  Heuristik: Fehlervermeidung
+
+  Wie reproduzierbar: Startseite
+
+o Reduntanter Homebutton
+
+  Der "Homebutton" kommt so ziemlich überall vor. (Quicklink-Liste, Unermenü, Am beginn jeder Startseite)
+ 
+  Screenshot(s): p-CM-HomeButton.jpeg;
+
+  Heuristik: Ästhetik und minimales Design
+  
+  Wie reproduzierbar: Startseite
+
+o Amt-Standort
+
+  Angeblich soll die Karte mir den Standort des jeweiligen Amtes anzeigen + Karte.
+  Dies Funktioniert am Handy nicht bzw ist unhandich und unübersichtlich
+
+  Video clip: n-CM-Standort.mp4 
+
+  Heuristik:  Fehlervermeidung
+
+  Wie reproduzierbar: Startseite -> Rathaus -> Ämter -> "Amt auswählen"
+ 
+ 
