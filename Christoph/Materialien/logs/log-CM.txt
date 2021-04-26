@@ -37,7 +37,7 @@ o Einfache Startseite/ HomeButton
 
   Heuristik: Umkehrbare Aktionen
 
-  Wie reproduzierbar: "Graz" links oben
+  Wie reproduzierbar: "Graz" links oben auf jeder Seite
 
 o Quicklink funktion 
   
@@ -133,7 +133,7 @@ o Optik
   
   Screenshot(s): p-CM-Text.jpeg;
 
-  Heuristik:  Fehlervermeidung
+  Heuristik:  Ästhetik und minimales Design
  
   Wie reproduzierbar: Startseite
 
