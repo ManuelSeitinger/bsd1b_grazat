@@ -49,7 +49,6 @@ PDFs herunter.
 
 Heuristik: Fehlervermeidung
 
-
 Video clip:p-LH-Verlinkungen zu Dokumenten.mp4
 
 o Terminvereinbarung für das Anmelden in Graz ist gut strukturiert
@@ -77,6 +76,31 @@ Das benötigte Impressum ist von jeder Seite aus erreichbar.
 Heuristik: Sprache des Benutzers verwenden
 
 Video clip:p-LH-Impressum.mp4
+
+
+o Feedback bei ungültiger Eingabe
+
+Wenn etwas nicht gefunden werden kann, dann gibt es ein deutliches Feedback.,
+
+Heuristik: Gute Fehlermeldungen
+
+Video clip: p-LH-Feedback bei Eingabe.mkv
+
+o Ladezeiten sind optimal 
+
+Die Ladezeiten sind recht schnell und man muss nicht lange auf die beispielsweise nächste Seite warten bis diese geladen hat.
+
+Heuristik: Rückmeldung des Systemzustandes (Feedback) 
+
+Video clip: p-LH-Ladezeiten.mkv
+
+o Videos und Bilder sehr passend
+
+Die Bilder und Videos auf graz.at sind sehr passend und gut gewählt. 
+
+Heuristik: Ästhetik und minimales Design
+
+Video clip: p-LH-Fotos&Videos.mkv
 
 
 
