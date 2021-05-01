@@ -1,0 +1,264 @@
+Evaluator: Manuel Seitinger
+Alter: 20
+Geschlecht: Männlich
+Gerät: Ipad Air 3
+Betriebssystem und Version: IpadOS 14.4.2
+Web Browser und Version: Safari 14.0.3
+Internet Verbindung: A1 Breitband Internet (WLAN Verbindung)
+Internet Verbindung Download Geschwindigkeit: 30 Mbit/sec
+Bildschirmgröße: 10,5 Zoll
+Browserauflösung: 2224 x 1668
+Bildschirmauflösung: 2224 x 1668
+Datum der Evaluierung: 23.04.2021
+Zeit der Evaluierung: 15:20
+
+
+Positive Eindrücke:
+
+1.) Suchen im Telefonbuch
+
+Feedback bei nicht gültiger Eingabe.
+
+Screenshot(s)/Videoclip(s): p-MS-Fehlermeldung.png
+
+Wie reproduzierbar: Startseite -> Telefonbuch Suche
+
+2.) Informationen
+
+Es werden genügend Informationen zu Gründen, Steuern+Abgaben, Subventionen etc. bereitgestellt.´
+
+Screenshot(s)/Videoclip(s): p-MS-Informationen.mp4
+
+Wie reproduzierbar: Startseite -> Beruf
+
+3.) Informationen
+
+Es wird für jeden Bereich die zusätzliche Information bereitgestellt, an wen man sich wenden kann.
+
+Screenshot(s)/Videoclip(s): p-MS-Kontakt.png
+
+Wie reproduzierbar: Startseite -> Beruf -> Wirtschaft -> Gründen in Graz
+
+4.) Bewertungen
+
+Möglichkeit am Ende der Seite die Nützlichkeit der Informationen zu bewerten.
+
+Screenshot(s)/Videoclip(s): p-MS-Bewertung.png
+
+Wie reproduzierbar: Startseite -> Beruf -> Gewerbe -> Gewerbe: Anmeldung, Verfahren
+
+5.) Feedback
+
+Es besteht die Möglichkeit ein ausführliches Feedback zu den Beiträgen zu geben
+
+Screenshot(s)/Videoclip(s): p-MS-FeedbackInfo.png
+
+Wie reproduzierbar: Startseite -> Beruf -> Gewerbe -> Gewerbe: Anmeldung, Verfahren
+
+6.) Navigation
+
+Wenn auf der Seite nach unten gescrollt wird erscheint ein Button mit einem Pfeil mit dem man wieder zum Anfang gelangt
+
+Screenshot(s)/Videoclip(s): p-MS-Pfeil.png
+
+Wie reproduzierbar: Startseite
+
+7.) Menüleiste
+
+Befindet man sich im Hochformat wird die Menüleiste eingeklappt um Platz zu sparen
+
+Screenshot(s)/Videoclip(s): p-MS-Menü.mp4
+
+Wie reproduzierbar: Startseite -> Beruf
+
+8.) Untermenüs
+
+Es wurden kleine Symbole über den Untermenüs platziert.
+
+Screenshot(s)/Videoclip(s): p-MS-Symbole.png
+
+Wie reproduzierbar: Startseite -> Beruf
+
+
+Probleme
+-------------------------------------------------------------------------------
+
+1.) Startseite
+
+Die Startseite ist mit sehr vielen Informationen überladen
+
+Heuristik: Ästhetik und minimales Design
+
+Screenshot(s)/Videoclip(s): n-MS-Startseite.mp4
+
+
+Wie reproduzierbar: Startseite
+
+2.) Sprache umstellen
+
+Wenn man die Sprache im rechten oberen Rand der Website umstellt, wird immer noch "EN" als Sprache angezeigt. Das ist aber nicht bei allen Sprachen
+der Fall. Bei gewissen Sprachen wie z.B Thailändisch wird darauf umgestellt.
+
+Heuristik: 
+
+Screenshot(s)/Videoclip(s): n-MS-Uebersetzung.mp4
+
+
+Wie reproduzierbar: Startseite -> Sprache ändern
+
+
+3.) Suchen im Telefonbuch
+
+Es gibt die Rückmeldung, dass Übereinstimmungen zur Suche gefunden wurden, aber es wird nichts angezeigt.
+
+Heuristik: Gute Fehlermeldungen
+
+Screenshot(s)/Videoclip(s): n-MS-Uebereinstimmung.png
+
+
+Wie reproduzierbar: Telefonbuch -> M5 eingeben -> Suchen
+
+
+4.) Suchen im Telefonbuch
+
+Wenn man nur einen Buchstaben in das Suchfeld eingibt, kommt die Fehlermeldung man solle 2 Buchstaben eingeben, aber wenn man nun einen Buchstaben 
+und eine Zahl eingibt kommt diese Fehlermeldung nicht mehr.
+
+Heuristik: Gute Fehlermeldungen
+
+Screenshot(s)/Videoclip(s): n-MS-Telefonsuche.mp4
+
+
+Wie reproduzierbar: Telefonbuch -> M5 eingeben -> Suchen
+
+5.) Suchen im Telefonbuch
+
+Bei erfolgreicher Suche, ist der Arbeitsplatz bei bestimmten Personen als Link hinterlegt und bei anderen nur fett markiert.
+
+Heuristik: Konsistenz
+
+Screenshot(s)/Videoclip(s): n-MS-Links.png
+
+
+Wie reproduzierbar: Telefonbuch -> "Manfred" eingeben -> Suchen
+
+6.) Suchen im Telefonbuch
+
+Bei erfolgreicher Suche wird gemeldet, dass es zu viele Suchergebnisse für die Anfrage gäbe, weshalb nur die ersten angezeigt werden.
+Die Möglichkeit die Suche weiterenzuschränken ist leider nur sehr schwer erkennbar
+
+Heuristik: Gute Fehlermeldungen
+
+Screenshot(s)/Videoclip(s): n-MS-ErweiterteSuche.png
+
+
+Wie reproduzierbar: Telefonbuch -> Suche
+
+7.) Navigieren im Bereich "Beruf"
+
+Bestimmte Untermenüs lassen sich anklicken um zu navigieren, andere jedoch nicht
+ 
+Heuristik: Konsistenz
+
+Screenshot(s)/Videoclip(s): n-MS-NavigationMenue.mp4
+
+
+Wie reproduzierbar: Startseite -> Beruf
+
+8.) Navigation
+
+Wenn man sich tiefer in der Website befindet, ist es nicht möglich den ganzen Pfad in einem Fluss zur Startseite zurückzugehen.
+
+Heuristik: Umkehrbare Aktionen
+
+Screenshot(s)/Videoclip(s): n-MS-Navigation.mp4
+
+
+Wie reproduzierbar: Startseite -> Beruf -> Gewerbe
+
+9.) Formulare
+
+Wenn das Ausfüllen eines Formulars abgebrochen wird, wird man zur Startseite weitergeleitet und nicht zum vorherigen Standpunkt
+
+Heuristik: Umkehrbare Aktionen
+
+Screenshot(s)/Videoclip(s): n-MS-Formular.mp4
+
+
+Wie reproduzierbar: Startseite -> Beruf -> Steuern+Abgaben -> Nächtigungsabgabe-Anmeldung 
+
+10.) Bedienungshilfe
+
+Man kann sich den Text der jeweiligen Seite vorlesen lassen, diese Vorlesefunktion funktioniert jedoch leider nicht.
+
+Heuristik: Hilfe und Dokumentation
+
+Screenshot(s)/Videoclip(s): n-MS-Vorlesen.mp4
+
+
+Wie reproduzierbar: Startseite -> Beruf -> Gewerbe -> Anmeldung,Verfahren
+
+11.) Überschrift fürs Anzeigen von Informationen
+
+Doppelpunkt bei "Notwendige Unterlagen", dieser Doppelpunkt kommt aber nicht bei allen Unterpunkten vor
+
+Heuristik: Konsistenz
+
+Screenshot(s)/Videoclip(s): n-MS-Doppelpunkt.mp4
+
+
+Wie reproduzierbar: Startseite -> Beruf -> Steuern+Abgaben -> Tourismusinteressentenbeitrag
+
+12.) Inkosistenter Hintergrund bei Darstellung von Informationen
+
+In Unterpunkten von Untermenüs werden Informationen mit grauem Hintergrund hinterlegt aber nicht bei allen
+
+Heuristik: Konsistenz
+
+Screenshot(s)/Videoclip(s): n-MS-Hintergrund.png
+
+
+Wie reproduzierbar: Startseite -> Beruf -> Subventionen und Förderungen -> Umweltförderungen -> Fahrrad-Förderung
+
+13.) Inkosistente Bereitstellung von Informationen
+
+In Unterpunkten steht direkt in der Überschrift ob Kosten anfallen, in manchen Fällen ist diese Information erst verfügbar, wenn 
+man den Unterpunkt auswählt
+ 
+Heuristik: Konsistenz
+
+Screenshot(s)/Videoclip(s): n-MS-Kosten.mp4
+
+
+Wie reproduzierbar: Startseite -> Beruf -> Subventionen und Förderungen -> Umweltförderungen -> Fahrrad-Förderung
+
+14.) Hintergrund von Menü
+
+Im Hochformat hat das Menü eine andere Hintergrundfarbe als im Querformat
+
+Heuristik: Konsistenz
+
+Screenshot(s)/Videoclip(s): n-MS-HintergrundMenue.mp4
+
+
+Wie reproduzierbar: Startseite
+
+15.) Menüleiste
+
+Befindet man sich im Hochformat verschwindet die Menüleiste und es ist nicht klar ersichtlich wie man wieder zur Startseite gelangt
+
+Heuristik: Hilfe und Dokumentation
+
+Screenshot(s)/Videoclip(s): n-MS-Menueleiste.png
+
+
+Wie reproduzierbar: Startseite -> Beruf
+
+16.) Suche einschränken 
+
+Es wird die Funktion geboten die Suche einzuschränken allerdings funktioniert diese nicht
+
+Screenshot(s)/Videoclip(s): n-MS-SucheEinschraenken.mp4
+
+
+Wie reproduzierbar: Startseite -> Suchfeld -> M5 eingeben
